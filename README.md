@@ -15,7 +15,7 @@ A simplified the schematic, abstracting the Bluetooth Low Energy shield and Ardu
 
 ### ble-talk-boulder-ios-27aug2013.pdf ###
 
-A talk presented to the [Boulder, Colorado iOS Developer meetup in August 2013.](http://www.meetup.com/Boulder-iOS/events/123912102/ Boulder iOS meetup page)
+A talk presented to the [Boulder, Colorado iOS Developer meetup in August 2013.](http://www.meetup.com/Boulder-iOS/events/123912102)
 
 ### This project consists of two main directories: ###
 
